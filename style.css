@@ -387,6 +387,10 @@ footer {
     height: 13px;
     width: 200px;
   }
+  .reccomation-section-card-list {
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media (550px > width) {
   .hero {
@@ -415,53 +419,6 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 10px;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   }
   .card-set2 {
     display: flex;
@@ -484,6 +441,9 @@ footer {
   .subscribe-form input {
     height: 13px;
     width: 200px;
-  
+  }
+  .reccomation-section-card-list {
+    display: flex;
+    flex-direction: column;
   }
 }
